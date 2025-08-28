@@ -1,0 +1,165 @@
+[2025-08-19 13:55:36] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 13:55:41] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 13:55:44] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 13:55:44] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 13:55:55] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 13:55:55] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 13:56:05] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 13:56:05] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 13:56:15] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 13:56:15] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 13:56:25] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 14:01:04] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 14:01:08] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 14:01:10] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 14:01:10] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 14:01:12] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 14:01:22] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 14:01:22] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 14:01:33] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 14:01:33] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 14:01:43] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:21:44] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 15:21:57] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:21:58] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:21:58] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:21:59] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:07] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 15:22:13] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:22:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:22:54] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 15:22:58] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:23:00] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:23:00] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:23:03] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:23:13] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:23:13] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:23:24] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:23:24] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:23:27] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:26:17] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 15:26:21] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:26:24] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:26:24] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:26:26] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:26:37] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:26:37] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:26:48] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 15:26:48] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 15:26:51] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:06:59] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:07:04] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:07:08] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:07:08] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:07:10] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:07:10] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:07:20] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:07:20] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:07:31] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:07:31] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:07:38] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:08:40] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:08:45] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:08:49] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:08:49] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:08:51] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:08:51] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:09:01] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:09:01] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:09:12] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:09:12] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:09:22] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:11:55] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:12:00] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:12:04] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:12:04] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:12:07] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:12:07] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:12:17] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:12:17] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:12:27] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:12:27] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:12:37] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:18:41] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:18:52] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:18:55] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:18:55] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:18:58] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:18:58] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:19:15] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:19:15] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:19:26] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:19:26] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:19:30] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:31:19] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:31:25] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:31:28] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:31:28] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:31:40] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:31:40] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:31:52] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:31:52] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:32:03] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:32:03] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:32:05] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:41:33] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\master.xml
+
+[2025-08-19 16:41:36] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:41:39] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:41:39] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:41:41] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:41:41] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:42:01] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:42:01] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:42:12] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 16:42:12] [INFO] testCases.LoginDataDrivenTest - ****Starting verify_login****
+[2025-08-19 16:42:15] [INFO] testCases.LoginDataDrivenTest - ****finished verify_login****
+[2025-08-19 17:05:36] [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Supriya\SeleniumWebDriver\OpencartV121\grouping.xml
+
+[2025-08-19 17:05:38] [INFO] testCases.AccountRegistrationTest - ****Starting AccountRegistrationTest****
+[2025-08-19 17:05:39] [INFO] testCases.AccountRegistrationTest - Clicked on account link.... 
+[2025-08-19 17:05:39] [INFO] testCases.AccountRegistrationTest - Clicked on registration link.... 
+[2025-08-19 17:05:39] [INFO] testCases.AccountRegistrationTest - Providing customer details.... 
+[2025-08-19 17:05:45] [INFO] testCases.AccountRegistrationTest - Validating expected message.... 
+[2025-08-19 17:05:47] [INFO] testCases.AccountRegistrationTest - Logout after registering....
+[2025-08-19 17:05:48] [INFO] testCases.AccountRegistrationTest - ****Finished AccountRegistrationTest****
+[2025-08-19 17:05:50] [INFO] testCases.LoginTest - ****Starting verify_login****
+[2025-08-19 17:05:54] [INFO] testCases.LoginTest - ****finished verify_login****
